@@ -3,7 +3,7 @@
 def greet_user():
     """Greet the user"""
     name = input("Enter your name: ")
-    print(f"Hello, {name}! Welcome to this difficult Python program.")
+    print(f"Hello, {Spyderman}! Welcome to this difficult Python program.")
 
 def add(a, b):
     return a + b
